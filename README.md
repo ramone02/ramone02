@@ -1,6 +1,3 @@
-### 👋
-
-![gif](https://c.tenor.com/pKgKFm7W-loAAAAC/repeat-jump.gif)
 
  # Estudiante Desarrollo de Software
  - Front-End React
@@ -14,6 +11,8 @@
      - Postgres
 
 # [LinkedIn](https://www.linkedin.com/in/leonardo-bellido/)
+![gif](https://c.tenor.com/pKgKFm7W-loAAAAC/repeat-jump.gif)
+
 
 <!--
 **ramone02/ramone02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
