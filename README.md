@@ -1,6 +1,19 @@
-### Hi there 👋
+### 👋
 
-![gif](https://c.tenor.com/0cX42_A71ogAAAAC/internet-noconnection.gif)
+![gif](https://c.tenor.com/pKgKFm7W-loAAAAC/repeat-jump.gif)
+
+ # Estudiante Desarrollo de Software
+ - Front-End React
+     - HTML
+     - CSS - Sass
+     - Bootstrap
+     - JavaScript Vanilla
+     - React
+ - Back-End
+     - Java - JSP - JavaLite
+     - Postgres
+
+# [LinkedIn](https://www.linkedin.com/in/leonardo-bellido/)
 
 <!--
 **ramone02/ramone02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
