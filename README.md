@@ -1,6 +1,6 @@
 
  <div align="center">
- <h1 align="center"># Estudiante Desarrollo de Software/h1> <img src="https://c.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif">
+ <h1 align="center">Estudiante Desarrollo de Software</h1>
  </div>
  <br><br>
  
