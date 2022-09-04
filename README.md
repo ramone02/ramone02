@@ -11,7 +11,7 @@
      - Postgres
 
 # [LinkedIn](https://www.linkedin.com/in/leonardo-bellido/)
-![gif](https://c.tenor.com/pKgKFm7W-loAAAAC/repeat-jump.gif)
+![gif](https://tenor.com/view/monkey-developer-software-coding-debug-gif-15160023)
 
 
 <!--
