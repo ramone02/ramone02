@@ -1,6 +1,12 @@
 
- # Estudiante Desarrollo de Software
- - Front-End React
+ <div align="center">
+ <h1 align="center"># Estudiante Desarrollo de Software/h1> <img src="https://c.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif">
+ </div>
+ <br><br>
+ 
+ <img align="right" alt="Developer Proismailshah" src="https://c.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" width="400" height="220" />
+ 
+- Front-End React
      - HTML
      - CSS - Sass
      - Bootstrap
@@ -11,8 +17,6 @@
      - Postgres
 
 # [LinkedIn](https://www.linkedin.com/in/leonardo-bellido/)
-![gif](https://c.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif)
-
 
 <!--
 **ramone02/ramone02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
