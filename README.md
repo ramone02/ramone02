@@ -9,9 +9,9 @@
  - Back-End
      - Java - JSP - JavaLite
      - Postgres
-[gif](https://c.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif)
+
 # [LinkedIn](https://www.linkedin.com/in/leonardo-bellido/)
-![gif](https://c.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif)
+![gif](https://c.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif)
 
 
 <!--
