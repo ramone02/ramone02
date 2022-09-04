@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![gif](https://c.tenor.com/0cX42_A71ogAAAAC/internet-noconnection.gif)
+
 <!--
 **ramone02/ramone02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
