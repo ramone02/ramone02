@@ -1,6 +1,6 @@
 
  <div align="center">
- <h1 align="center">Estudiante Desarrollo de Software</h1>
+ <h1 align="center">Jr Fullstack dev</h1>
  </div>
  <br><br>
  
@@ -11,9 +11,11 @@
      - CSS - Sass
      - Bootstrap
      - JavaScript Vanilla
+     - Typescript
      - React
  - Back-End
      - Java - JSP - JavaLite
+     - Spring-Boot
      - Postgres
 
 # [LinkedIn](https://www.linkedin.com/in/leonardo-bellido/)
